@@ -1,3 +1,5 @@
+### This is a dummy website for my blog on hosting a Static Website with Amazon S3 and accessing the cached website pages using CloudFront content delivery network (CDN) service. 
+
 FoodHut Free Bootstrap Restaurant Template for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
 
 Product Page: https://wwww.devcrud.com/
